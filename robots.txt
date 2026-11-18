@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kdenny657.github.io/foxandfir/sitemap.xml
