@@ -18,12 +18,44 @@
       "url": "https://www.lowes.com/pd/Kobalt-Compact-12-in-15-Amp-Dual-Bevel-Sliding-Compound-Corded-Miter-Saw/5013555733"
     },
     {
-      "title": "DEWALT 20V MAX Drill and Impact Driver Kit",
+      "title": "Milwaukee M18 FUEL Compact Router (Tool Only)",
+      "store": "Walmart",
+      "price": "$177.99",
+      "was": "$199",
+      "note": "Cordless trim router for edge profiles and cabinet work.",
+      "url": "https://www.walmart.com/ip/Milwaukee-2723-20-M18-FUEL-18V-Cordless-Compact-Router-Bare-Tool-Brushless-Trim-Router-for-Woodworking-Cabinet-Making-Edge-Routing-31-000-RPM/821308629"
+    },
+    {
+      "title": "DEWALT 20V MAX 3-Tool Woodworking Combo Kit",
       "store": "Amazon",
-      "price": "$129",
-      "was": "$239",
-      "note": "Two-tool combo kit that covers most shop drilling and driving.",
-      "url": "https://www.amazon.com/dp/B00IJ0ALYS"
+      "price": "$386.44",
+      "was": "$449",
+      "note": "Three-tool cordless kit aimed at woodworking projects.",
+      "url": "https://www.amazon.com/dp/B0CTGNXGSM/"
+    },
+    {
+      "title": "RIKON 10 in. Deluxe Bandsaw, 1/2 HP",
+      "store": "Woodcraft",
+      "price": "$509.99",
+      "was": "$599.99",
+      "note": "Benchtop-friendly bandsaw for curves and small resawing.",
+      "url": "https://www.woodcraft.com/products/rikon-10-deluxe-bandsaw-1-2-hp"
+    },
+    {
+      "title": "Braun 750-Lumen Portable LED Work Light",
+      "store": "Harbor Freight",
+      "price": "$9.99",
+      "was": "",
+      "note": "Rotating handle and stand for lighting up the bench.",
+      "url": "https://www.harborfreight.com/750-lumen-led-portable-work-light-with-rotating-handlestand-73278.html"
+    },
+    {
+      "title": "CRAFTSMAN 9 gal. Corded Wet/Dry Vacuum",
+      "store": "Ace Hardware",
+      "price": "$79.99",
+      "was": "$109.99",
+      "note": "Shop vac for sawdust cleanup. Sale runs through Nov 30.",
+      "url": "https://www.acehardware.com/departments/tools/wet-dry-vacuums/wetdry-vacuums/2560282"
     },
     {
       "title": "Milwaukee M18 7-1/4 in. Circular Saw Kit",
@@ -34,14 +66,6 @@
       "url": "https://www.homedepot.com/p/Milwaukee-M18-18V-Lithium-Ion-Brushless-Cordless-7-1-4-in-Circular-Saw-w-2-5-0-Ah-Batteries-Charger-2631-20-48-59-1852B/343492535"
     },
     {
-      "title": "CRAFTSMAN 10 in. Jobsite Table Saw with Folding Stand",
-      "store": "Lowe's",
-      "price": "$199",
-      "was": "$229",
-      "note": "15 amp saw with a folding stand, easy to move around a small shop.",
-      "url": "https://www.lowes.com/pd/CRAFTSMAN-10-in-Carbide-Tipped-Blade-15-Amp-Table-Saw/1001071462"
-    },
-    {
       "title": "DEWALT 20V MAX XR Brushless Random Orbital Sander",
       "store": "Lowe's",
       "price": "$99",
@@ -50,28 +74,28 @@
       "url": "https://www.lowes.com/pd/DEWALT-20-Volt-Brushless-Random-Orbital-Sander-with-Bag/1000601423"
     },
     {
-      "title": "RYOBI 18V ONE+ AirStrike 18-Gauge Brad Nailer (Tool Only)",
-      "store": "Home Depot",
-      "price": "$99",
-      "was": "$149",
-      "note": "Cordless brad nailer, no compressor or hose needed.",
-      "url": "https://www.homedepot.com/p/RYOBI-ONE-18V-18-Gauge-Cordless-AirStrike-Brad-Nailer-Tool-Only-P321/315855110"
+      "title": "Milwaukee M18 FUEL D-Handle Jig Saw (Tool Only)",
+      "store": "Walmart",
+      "price": "$161.52",
+      "was": "$183.80",
+      "note": "Brushless cordless jigsaw for curves and cutouts.",
+      "url": "https://www.walmart.com/ip/Milwaukee-M18-FUEL-D-Handle-Jig-Saw-Bare-Tool-2737-20-Cordless-Brushless-Power-Tool-Tool-Free-Adjustments-Integrated-LED-Light-Dust-Management/309880341"
     },
     {
-      "title": "DEWALT STEALTHSONIC 9 Gal. Quiet Wet/Dry Shop Vacuum",
-      "store": "Lowe's",
-      "price": "$99",
-      "was": "$129",
-      "note": "Quieter shop vac for sawdust cleanup.",
-      "url": "https://www.lowes.com/pd/DEWALT-Stealthsonic-Quiet-9-Gallons-5-HP-Corded-Wet-Dry-Shop-Vacuum-with-Accessories-Included/5013926557"
+      "title": "DEWALT 20V MAX Drill and Impact Driver Kit",
+      "store": "Amazon",
+      "price": "$129",
+      "was": "$239",
+      "note": "Two-tool combo kit that covers most shop drilling and driving.",
+      "url": "https://www.amazon.com/dp/B00IJ0ALYS"
     },
     {
-      "title": "RYOBI 10 in. Sliding Miter Saw with Stand",
-      "store": "Home Depot",
-      "price": "$299",
-      "was": "$398",
-      "note": "15 amp sliding compound saw that includes a quick-fold stand.",
-      "url": "https://www.homedepot.com/p/RYOBI-15-Amp-10-in-Corded-Sliding-Compound-Miter-Saw-and-Universal-Miter-Saw-QUICKSTAND-TSS103-A18MS01G/313307258"
+      "title": "JET 13 in. Benchtop Planer with Helical Cutterhead",
+      "store": "Woodcraft",
+      "price": "$699",
+      "was": "$799.99",
+      "note": "Benchtop planer with a quiet helical head.",
+      "url": "https://www.woodcraft.com/products/jet-13bthh-jet-13-planer-w-helical-head"
     }
   ]
 }
