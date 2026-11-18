@@ -1,4 +1,69 @@
 {
-  "updated": "",
-  "deals": []
+  "updated": "November 18, 2026",
+  "deals": [
+    {
+      "title": "DEWALT 12 in. Double-Bevel Sliding Compound Miter Saw",
+      "store": "Home Depot",
+      "price": "$449",
+      "was": "$649",
+      "note": "Corded 15 amp saw with XPS shadow line and material clamp.",
+      "url": "https://www.homedepot.com/p/DEWALT-15-Amp-Corded-12-in-Double-Bevel-Sliding-Compound-Miter-Saw-with-XPS-technology-Blade-Wrench-and-Material-Clamp-DWS780/321488310"
+    },
+    {
+      "title": "DEWALT Jobsite Table Saw with Rolling Stand",
+      "store": "Home Depot",
+      "price": "$399",
+      "was": "$660.07",
+      "note": "Compact 8-1/4 in. 15 amp saw with a heavy-duty rolling stand.",
+      "url": "https://www.homedepot.com/p/DEWALT-15-Amp-Corded-8-1-4-in-Compact-Portable-Jobsite-Tablesaw-with-Heavy-Duty-Rolling-Stand-with-Quick-Connect-Brackets-DWE7485WW7440RS/326894573"
+    },
+    {
+      "title": "RYOBI 10 in. Sliding Miter Saw with Stand",
+      "store": "Home Depot",
+      "price": "$299",
+      "was": "$398",
+      "note": "15 amp sliding compound saw that includes a quick-fold stand.",
+      "url": "https://www.homedepot.com/p/RYOBI-15-Amp-10-in-Corded-Sliding-Compound-Miter-Saw-and-Universal-Miter-Saw-QUICKSTAND-TSS103-A18MS01G/313307258"
+    },
+    {
+      "title": "Milwaukee M18 7-1/4 in. Circular Saw Kit",
+      "store": "Home Depot",
+      "price": "$199",
+      "was": "$626",
+      "note": "Brushless cordless saw with two 5.0 Ah batteries and a charger.",
+      "url": "https://www.homedepot.com/p/Milwaukee-M18-18V-Lithium-Ion-Brushless-Cordless-7-1-4-in-Circular-Saw-w-2-5-0-Ah-Batteries-Charger-2631-20-48-59-1852B/343492535"
+    },
+    {
+      "title": "DEWALT 20V MAX 5 in. Random Orbital Sander (Tool Only)",
+      "store": "Home Depot",
+      "price": "$99",
+      "was": "$149",
+      "note": "Cordless brushless sander for finishing cedar and hardwood.",
+      "url": "https://www.homedepot.com/p/DEWALT-20V-MAX-XR-Cordless-Brushless-5-in-Random-Orbital-Sander-Tool-Only-DCW210B/305585327"
+    },
+    {
+      "title": "RYOBI 18V ONE+ AirStrike 18-Gauge Brad Nailer (Tool Only)",
+      "store": "Home Depot",
+      "price": "$99",
+      "was": "$149",
+      "note": "Cordless brad nailer, no compressor or hose needed.",
+      "url": "https://www.homedepot.com/p/RYOBI-ONE-18V-18-Gauge-Cordless-AirStrike-Brad-Nailer-Tool-Only-P321/315855110"
+    },
+    {
+      "title": "DEWALT 20V MAX Drill and Impact Driver Combo Kit",
+      "store": "Home Depot",
+      "price": "$149",
+      "was": "$239",
+      "note": "Two-tool kit with two 1.3 Ah batteries, charger, and bag.",
+      "url": "https://www.homedepot.com/p/DEWALT-20V-MAX-Cordless-Drill-Impact-2-Tool-Combo-Kit-with-2-20V-1-3Ah-Batteries-Charger-and-Bag-DCK240C2/204373168"
+    },
+    {
+      "title": "DEWALT ATOMIC 20V MAX Drill/Driver Kit",
+      "store": "Home Depot",
+      "price": "$99",
+      "was": "$179",
+      "note": "Compact 1/2 in. drill with a 2.0 Ah battery and charger.",
+      "url": "https://www.homedepot.com/p/DEWALT-Atomic-20V-Lithium-Ion-Cordless-Compact-1-2-in-Drill-Driver-Kit-with-2-0Ah-Battery-and-Charger-DCD794D1/322138372"
+    }
+  ]
 }
