@@ -159,7 +159,7 @@ if(ETSY_URL){var e=document.getElementById('etsy');e.href=ETSY_URL;e.textContent
 fetch('deals.json?t='+Date.now()).then(r=>r.json()).then(d=>{
   var g=document.getElementById('dealgrid');g.innerHTML='';
   if(!d.deals||!d.deals.length){g.innerHTML='<p class="note">New deals are posted weekly. Check back soon.</p>';return}
-  var PAGE=12,shown=PAGE,store='All',more=document.getElementById('moredeals'),chips=document.getElementById('dealfilters');
+  var PAGE=100000,shown=PAGE,store='All',more=document.getElementById('moredeals'),chips=document.getElementById('dealfilters');
   function esc(t){return String(t||'').replace(/&/g,'&amp;').replace(/</g,'&lt;')}
   function render(){
     g.innerHTML='';

@@ -346,6 +346,22 @@
       "url": "https://www.amazon.com/dp/B0842QDW95"
     },
     {
+      "title": "Quinn 9 in. Linesman Pliers",
+      "store": "Harbor Freight",
+      "price": "$6.00",
+      "was": "",
+      "note": "Listed at 53% off.",
+      "url": "https://www.harborfreight.com/9-in-Linesman-Pliers-64574.html"
+    },
+    {
+      "title": "Milwaukee M18 Compact Brushless 2-Tool Combo Kit (3692-22CT)",
+      "store": "Northern Tool",
+      "price": "$179",
+      "was": "$249",
+      "note": "Price from Northern Tool's sale page.",
+      "url": "https://www.northerntool.com/on-sale"
+    },
+    {
       "title": "DEWALT Random Orbital Sander",
       "store": "Home Depot",
       "price": "$99",
@@ -376,6 +392,14 @@
       "was": "$179",
       "note": "Cordless finishing sander.",
       "url": "https://www.amazon.com/dp/B07JQM7C28"
+    },
+    {
+      "title": "DEWALT 20V MAX Battery Starter Kit, 2 x 5.0Ah (DCB205-2C)",
+      "store": "Northern Tool",
+      "price": "$199",
+      "was": "$299",
+      "note": "Price from Northern Tool's sale page.",
+      "url": "https://www.northerntool.com/on-sale"
     },
     {
       "title": "Makita 7-1/4 in. Circular Saw",
@@ -458,6 +482,14 @@
       "url": "https://www.lowes.com/pd/DEWALT-XTREME-12V-MAX-Brushless-Cordless-Oscillating-Tool-Tool-Only/5013107777"
     },
     {
+      "title": "Milwaukee M18 FUEL HACKZALL (Bare Tool)",
+      "store": "Walmart",
+      "price": "$144.90",
+      "was": "$167.64",
+      "note": "One-handed reciprocating saw.",
+      "url": "https://www.walmart.com/ip/Milwaukee-2719-20-M18-FUEL-Hackzall-Bare-Tool-Red-Black/1508715491"
+    },
+    {
       "title": "CRAFTSMAN 20 in. Fine Finish Hand Saw",
       "store": "Amazon",
       "price": "$15.99",
@@ -482,6 +514,14 @@
       "url": "https://www.lowes.com/pd/Kobalt-1-2-in-Keyless-Brushless-Cordless-Drill-Charger-Included/5018284053"
     },
     {
+      "title": "Milwaukee M18 FUEL 4-1/2 to 6 in. Braking Grinder (Bare Tool)",
+      "store": "Walmart",
+      "price": "$159.45",
+      "was": "$180",
+      "note": "Paddle switch with rapid stop brake.",
+      "url": "https://www.walmart.com/ip/MILWAUKEE-M18-FUEL-4-1-2-6-Braking-Grinder-with-Paddle-Switch-Cordless-13A-Power-RAPIDSTOP-Brake-Model-3670-20-Bare-Tool/15135374213"
+    },
+    {
       "title": "CRAFTSMAN 7 in. Aluminum Rafter Square",
       "store": "Amazon",
       "price": "$9.99",
@@ -498,12 +538,300 @@
       "url": "https://www.homedepot.com/p/RYOBI-ONE-18V-18-Gauge-Cordless-AirStrike-Brad-Nailer-with-Cordless-Jig-Saw-P321-PCL525B/320653627"
     },
     {
+      "title": "DEWALT 20V MAX XR 7-1/4 in. Circular Saw Kit",
+      "store": "Lowe's",
+      "price": "$299",
+      "was": "$379",
+      "note": "Brushless cordless saw kit.",
+      "url": "https://www.lowes.com/pd/DEWALT-XR-7-1-4-In-Circular-Saw-Kit/5015148673"
+    },
+    {
+      "title": "Milwaukee M18 FUEL 1/4 in. Hex Impact Driver Kit",
+      "store": "Walmart",
+      "price": "$279.99",
+      "was": "$350.99",
+      "note": "Two 5.0Ah batteries, charger and case.",
+      "url": "https://www.walmart.com/ip/Milwaukee-M18-FUEL-1-4-Hex-Impact-Driver-Kit-18V-Brushless-Cordless-Driver-with-2-x-5-0Ah-Batteries-Charger-and-Case-Model-2953-22/1114071541"
+    },
+    {
+      "title": "DEWALT 12 in. Sliding Miter Saw",
+      "store": "Amazon",
+      "price": "$499",
+      "was": "$699",
+      "note": "Corded sliding compound miter saw.",
+      "url": "https://www.amazon.com/dp/B004HASE0W"
+    },
+    {
       "title": "RYOBI LINK Rolling Tool Box",
       "store": "Home Depot",
       "price": "$79.98",
       "was": "$99.98",
       "note": "Stackable rolling storage for the shop.",
       "url": "https://www.homedepot.com/p/RYOBI-LINK-Rolling-Tool-Box-STM201/317035813"
+    },
+    {
+      "title": "DEWALT XTREME 12V MAX 5-3/8 in. Brushless Circular Saw",
+      "store": "Lowe's",
+      "price": "$99",
+      "was": "$169",
+      "note": "Compact brushless saw.",
+      "url": "https://www.lowes.com/pd/DEWALT-XTREME-12-Volt-Max-5-3-8-in-Brushless-Cordless-Circular-Saw/5002182403"
+    },
+    {
+      "title": "Milwaukee M12 FUEL 1/4 in. Hex Impact Driver (Bare Tool)",
+      "store": "Walmart",
+      "price": "$92",
+      "was": "$106.59",
+      "note": "Compact impact driver.",
+      "url": "https://www.walmart.com/ip/Milwaukee-3453-20-M12-FUEL-1-4-Hex-Impact-Driver-Fastest-Subcompact-Compact-Design-Tri-LED-Lighting-Brushless-Motor-Bare-Tool/1480198019"
+    },
+    {
+      "title": "DEWALT 20V MAX XR Brushless 7-1/4 in. Circular Saw",
+      "store": "Amazon",
+      "price": "$199",
+      "was": "$249",
+      "note": "Brushless cordless saw.",
+      "url": "https://www.amazon.com/dp/B0DDDW9GWK"
+    },
+    {
+      "title": "RYOBI ONE+ HP 6-1/2 in. Compact Circular Saw (Tool Only)",
+      "store": "Home Depot",
+      "price": "$99",
+      "was": "$119",
+      "note": "Brushless cordless saw.",
+      "url": "https://www.homedepot.com/p/RYOBI-ONE-HP-18V-Brushless-Cordless-Compact-6-1-2-in-Circular-Saw-Tool-Only-PSBCS01B/320033040"
+    },
+    {
+      "title": "DEWALT 20V MAX 10 in. Cordless Miter Saw",
+      "store": "Lowe's",
+      "price": "$299",
+      "was": "$429",
+      "note": "Dual-bevel cordless miter saw.",
+      "url": "https://www.lowes.com/pd/DEWALT-20V-XR-10-In-Dual-Bevel-Miter-Saw/5015801599"
+    },
+    {
+      "title": "Milwaukee M18 REDLITHIUM XC 5.0Ah Battery 2-Pack",
+      "store": "Walmart",
+      "price": "$124",
+      "was": "$199.99",
+      "note": "Extended capacity batteries.",
+      "url": "https://www.walmart.com/ip/Milwaukee-M18-REDLITHIUM-XC-5-0Ah-18V-Extended-Capacity-Battery-Pack-48-11-1852-2-Pack-High-Performance-Batteries-for-Cordless-Power-Tools/160174024"
+    },
+    {
+      "title": "DEWALT 20V MAX 7-1/4 in. Cordless Miter Saw",
+      "store": "Amazon",
+      "price": "$296.65",
+      "was": "$369",
+      "note": "Cordless miter saw for trim.",
+      "url": "https://www.amazon.com/dp/B00YEWX4SK"
+    },
+    {
+      "title": "RYOBI ONE+ HP One-Handed Reciprocating Saw (Tool Only)",
+      "store": "Home Depot",
+      "price": "$99",
+      "was": "$119",
+      "note": "Compact saw for pruning and rough cuts.",
+      "url": "https://www.homedepot.com/p/RYOBI-ONE-HP-18V-Brushless-Cordless-Compact-One-Handed-Reciprocating-Saw-Tool-Only-PSBRS02B/329062475"
+    },
+    {
+      "title": "DEWALT 20V MAX Cordless Reciprocating Saw",
+      "store": "Lowe's",
+      "price": "$99",
+      "was": "$159",
+      "note": "Variable speed, battery not included.",
+      "url": "https://www.lowes.com/pd/DEWALT-20-Volt-Max-Variable-Speed-Cordless-Reciprocating-Saw-Battery-Not-Included/3962537"
+    },
+    {
+      "title": "Milwaukee SHOCKWAVE 50-Piece Impact Drill and Drive Set",
+      "store": "Walmart",
+      "price": "$49.49",
+      "was": "$57.86",
+      "note": "Bits and drivers for impact use.",
+      "url": "https://www.walmart.com/ip/Milwaukee-Shockwave-50-Piece-Impact-Drill-Drive-Set-48-32-4013/166566012"
+    },
+    {
+      "title": "DEWALT 20V MAX Brushless Belt Sander",
+      "store": "Amazon",
+      "price": "$227.95",
+      "was": "$329",
+      "note": "Cordless belt sander.",
+      "url": "https://www.amazon.com/dp/B0BY2T3XVT"
+    },
+    {
+      "title": "RYOBI ONE+ Miter Saw and Brad Nailer (Tools Only)",
+      "store": "Home Depot",
+      "price": "$338",
+      "was": "$388",
+      "note": "Cordless 7-1/4 in. miter saw plus nailer.",
+      "url": "https://www.homedepot.com/p/RYOBI-ONE-18V-Cordless-2-Tool-Combo-Kit-with-7-1-4-in-Sliding-Compound-Miter-Saw-and-AirStrike-Brad-Nailer-Tools-Only-PBT01B-P321/321367167"
+    },
+    {
+      "title": "Kobalt 24V Brushless Reciprocating Saw (Tool Only)",
+      "store": "Lowe's",
+      "price": "$99",
+      "was": "$129",
+      "note": "Brushless cordless saw.",
+      "url": "https://www.lowes.com/pd/Kobalt-24-volt-Max-Variable-Brushless-Cordless-Reciprocating-Saw-Tool-Only/5013201385"
+    },
+    {
+      "title": "DEWALT 20V MAX XR 5 in. Random Orbital Sander (DCW211)",
+      "store": "Amazon",
+      "price": "$159",
+      "was": "$199",
+      "note": "Cordless random orbital sander.",
+      "url": "https://www.amazon.com/dp/B0H9Z8N9P9"
+    },
+    {
+      "title": "RYOBI ONE+ Brad Nailer and Finish Nailer (Tools Only)",
+      "store": "Home Depot",
+      "price": "$248",
+      "was": "$368",
+      "note": "Two nailers for trim and cabinet work.",
+      "url": "https://www.homedepot.com/p/RYOBI-ONE-18V-Cordless-2-Tool-Combo-Kit-with-AirStrike-18-Gauge-Brad-Nailer-and-16-Gauge-Straight-Finish-Nailer-Tools-Only-P321-P326/316802628"
+    },
+    {
+      "title": "CRAFTSMAN V20 6-Tool Combo Kit",
+      "store": "Lowe's",
+      "price": "$249",
+      "was": "$349",
+      "note": "Two batteries, charger and soft case.",
+      "url": "https://www.lowes.com/pd/CRAFTSMAN-6-Tool-20-volt-Max-Power-Tool-Combo-Kit-with-Soft-Case-2-Li-ion-Batteries-Included-and-Charger-Included/5013107409"
+    },
+    {
+      "title": "CRAFTSMAN V20 RP Reciprocating Saw",
+      "store": "Amazon",
+      "price": "$125.02",
+      "was": "$169",
+      "note": "Cordless saw for rough cuts.",
+      "url": "https://www.amazon.com/dp/B0B9HM6KK3"
+    },
+    {
+      "title": "RYOBI ONE+ Drill, Circular Saw and Reciprocating Saw Kit",
+      "store": "Home Depot",
+      "price": "$179",
+      "was": "$268",
+      "note": "Three-tool kit with batteries and charger.",
+      "url": "https://www.homedepot.com/p/RYOBI-ONE-18V-3-Tool-Combo-Kit-With-1-2-Drill-Driver-5-1-2-Circular-Saw-Reciprocating-Saw-1-5ah-Batteries-Charger-PCL1201K2-PCL515B/324903619"
+    },
+    {
+      "title": "CRAFTSMAN 6 Gal. Pancake Air Compressor",
+      "store": "Lowe's",
+      "price": "$149",
+      "was": "$169",
+      "note": "Portable compressor for nailers and inflating.",
+      "url": "https://www.lowes.com/pd/CRAFTSMAN-CFM-6-Gallon-Pancake-Air-Compressor/5015173689"
+    },
+    {
+      "title": "CRAFTSMAN VERSASTACK 71-Piece Mechanics Tool Set",
+      "store": "Amazon",
+      "price": "$49.98",
+      "was": "$69.98",
+      "note": "Stackable hand tool set.",
+      "url": "https://www.amazon.com/dp/B0CPYVKLZQ"
+    },
+    {
+      "title": "RYOBI ONE+ Starter Kit with Jig Saw",
+      "store": "Home Depot",
+      "price": "$99",
+      "was": "$178",
+      "note": "Battery, charger and jigsaw.",
+      "url": "https://www.homedepot.com/p/RYOBI-ONE-18V-Kit-w-4-0-Ah-Battery-2-0-Ah-Battery-Charger-FREE-ONE-Cordless-Jig-Saw-PSK1212SB-PCL525B/341967500"
+    },
+    {
+      "title": "DEWALT 20V MAX XR Hammer Drill Kit",
+      "store": "Lowe's",
+      "price": "$269",
+      "was": "$349",
+      "note": "Premium hammer drill kit.",
+      "url": "https://www.lowes.com/pd/DEWALT-XR-Premium-Hammer-Drill-Kit/5015148677"
+    },
+    {
+      "title": "CRAFTSMAN 2 Gal. Twin-Tank Air Compressor",
+      "store": "Amazon",
+      "price": "$142.97",
+      "was": "$169.97",
+      "note": "Portable compressor for nailers.",
+      "url": "https://www.amazon.com/dp/B07Y2WSG9J"
+    },
+    {
+      "title": "DEWALT Atomic Drill/Driver Kit",
+      "store": "Home Depot",
+      "price": "$99",
+      "was": "$179",
+      "note": "Compact 20V drill/driver kit.",
+      "url": "https://www.homedepot.com/p/322138372"
+    },
+    {
+      "title": "Kobalt 24V Brushless Impact Driver Kit",
+      "store": "Lowe's",
+      "price": "$129",
+      "was": "$189",
+      "note": "Battery and charger included.",
+      "url": "https://www.lowes.com/pd/Kobalt-Brushless-Cordless-Impact-Driver-Battery-Included-and-Charger-Included/5018284051"
+    },
+    {
+      "title": "CRAFTSMAN 140-Piece Impact Driver Bit Set",
+      "store": "Amazon",
+      "price": "$39.98",
+      "was": "$49.99",
+      "note": "Bits for impact driver work.",
+      "url": "https://www.amazon.com/dp/B0CQWV8YZK"
+    },
+    {
+      "title": "RIDGID Drill and Impact Driver Kit",
+      "store": "Home Depot",
+      "price": "$99",
+      "was": "$159",
+      "note": "Two-tool combo kit.",
+      "url": "https://www.homedepot.com/p/324536628"
+    },
+    {
+      "title": "CRAFTSMAN 12 in. Hacksaw",
+      "store": "Amazon",
+      "price": "$9.99",
+      "was": "$16.98",
+      "note": "Hand saw for metal and plastic.",
+      "url": "https://www.amazon.com/dp/B07R92S9YZ"
+    },
+    {
+      "title": "RYOBI LINK Medium Tool Box",
+      "store": "Home Depot",
+      "price": "$39.98",
+      "was": "$54.98",
+      "note": "Stackable storage for small tools.",
+      "url": "https://www.homedepot.com/p/RYOBI-LINK-Medium-Tool-Box-STM102/317036980"
+    },
+    {
+      "title": "CRAFTSMAN V20 2 Gal. Cordless Wet/Dry Vac",
+      "store": "Amazon",
+      "price": "$119.99",
+      "was": "$139",
+      "note": "Cordless shop vac for cleanup.",
+      "url": "https://www.amazon.com/dp/B07MHZJVM4"
+    },
+    {
+      "title": "RYOBI 300-Piece Drill and Drive Kit",
+      "store": "Home Depot",
+      "price": "$59.97",
+      "was": "$69",
+      "note": "Bits and drivers for most shop tasks.",
+      "url": "https://www.homedepot.com/p/RYOBI-300-Piece-Drill-and-Drive-Kit-A983002/306526534"
+    },
+    {
+      "title": "CRAFTSMAN VERSASTACK 30 Gal. Rolling Tool Chest",
+      "store": "Amazon",
+      "price": "$79.98",
+      "was": "$89.98",
+      "note": "Rolling storage for the shop.",
+      "url": "https://www.amazon.com/dp/B0D2S74GXR"
+    },
+    {
+      "title": "RYOBI Compact Laser Level",
+      "store": "Home Depot",
+      "price": "$19.97",
+      "was": "$22.97",
+      "note": "Quick layout and alignment.",
+      "url": "https://www.homedepot.com/p/RYOBI-15-Compact-Laser-Level-ELL1501/322321770"
     }
   ]
 }
