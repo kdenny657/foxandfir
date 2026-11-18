@@ -2,100 +2,508 @@
   "updated": "November 18, 2026",
   "deals": [
     {
-      "title": "DEWALT 12 in. Double-Bevel Sliding Compound Miter Saw",
+      "title": "DEWALT 20V Oscillating Multi-Tool Kit",
       "store": "Home Depot",
-      "price": "$449",
-      "was": "$649",
-      "note": "Corded 15 amp saw with XPS shadow line and material clamp.",
-      "url": "https://www.homedepot.com/s/DEWALT%2012%20in.%20Double-Bevel%20Sliding%20Compound%20Miter%20Saw"
+      "price": "$99",
+      "was": "$199",
+      "note": "Trims casing and cuts flush for trim and repair work.",
+      "url": "https://www.homedepot.com/p/341367667"
     },
     {
-      "title": "Kobalt Compact 12 in. Sliding Compound Miter Saw",
+      "title": "DEWALT STEALTHSONIC 9 Gal. Quiet Wet/Dry Shop Vacuum",
       "store": "Lowe's",
-      "price": "$279",
-      "was": "$349",
-      "note": "Dual-bevel corded saw with a compact sliding footprint.",
-      "url": "https://www.lowes.com/search?searchTerm=Kobalt%20Compact%2012%20in.%20Sliding%20Compound%20Miter%20Saw"
+      "price": "$99",
+      "was": "$129",
+      "note": "Quieter shop vac for sawdust cleanup.",
+      "url": "https://www.lowes.com/pd/DEWALT-Stealthsonic-Quiet-9-Gallons-5-HP-Corded-Wet-Dry-Shop-Vacuum-with-Accessories-Included/5013926557"
     },
     {
       "title": "Milwaukee M18 FUEL Compact Router (Tool Only)",
       "store": "Walmart",
       "price": "$177.99",
       "was": "$199",
-      "note": "Cordless trim router for edge profiles and cabinet work.",
-      "url": "https://www.walmart.com/search?q=Milwaukee%20M18%20FUEL%20Compact%20Router"
+      "note": "Cordless trim router for edge work.",
+      "url": "https://www.walmart.com/ip/Milwaukee-2723-20-M18-FUEL-18V-Cordless-Compact-Router-Bare-Tool-Brushless-Trim-Router-for-Woodworking-Cabinet-Making-Edge-Routing-31-000-RPM/821308629"
     },
     {
       "title": "DEWALT 20V MAX 3-Tool Woodworking Combo Kit",
       "store": "Amazon",
       "price": "$386.44",
       "was": "$449",
-      "note": "Three-tool cordless kit aimed at woodworking projects.",
-      "url": "https://www.amazon.com/dp/B0CTGNXGSM/"
+      "note": "Three-tool cordless kit aimed at woodworking.",
+      "url": "https://www.amazon.com/dp/B0CTGNXGSM"
     },
     {
-      "title": "RIKON 10 in. Deluxe Bandsaw, 1/2 HP",
-      "store": "Woodcraft",
-      "price": "$509.99",
-      "was": "$599.99",
-      "note": "Benchtop-friendly bandsaw for curves and small resawing.",
-      "url": "https://www.woodcraft.com/search?q=RIKON%2010%20in.%20Deluxe%20Bandsaw%2C%201/2%20HP"
-    },
-    {
-      "title": "Braun 750-Lumen Portable LED Work Light",
+      "title": "Bauer 25 ft. Slide-Lock Tape Measure",
       "store": "Harbor Freight",
-      "price": "$9.99",
+      "price": "$7.99",
       "was": "",
-      "note": "Rotating handle and stand for lighting up the bench.",
-      "url": "https://www.harborfreight.com/catalogsearch/result/?q=Braun%20750-Lumen%20Portable%20LED%20Work%20Light"
+      "note": "Listed at 33% off.",
+      "url": "https://www.harborfreight.com/25-ft-x-1-in-Slide-Lock-Tape-Measure-56676.html"
     },
     {
       "title": "CRAFTSMAN 9 gal. Corded Wet/Dry Vacuum",
       "store": "Ace Hardware",
       "price": "$79.99",
       "was": "$109.99",
-      "note": "Shop vac for sawdust cleanup. Sale runs through Nov 30.",
+      "note": "Sale runs through Nov 30.",
       "url": "https://www.acehardware.com/departments/tools/wet-dry-vacuums/wetdry-vacuums/2560282"
     },
     {
-      "title": "Milwaukee M18 7-1/4 in. Circular Saw Kit",
-      "store": "Home Depot",
-      "price": "$199",
-      "was": "$626",
-      "note": "Brushless cordless saw with two 5.0 Ah batteries and a charger.",
-      "url": "https://www.homedepot.com/s/Milwaukee%20M18%207-1/4%20in.%20Circular%20Saw%20Kit"
+      "title": "Porter-Cable 20V Brushless Oscillating Tool",
+      "store": "Tractor Supply",
+      "price": "$34.99",
+      "was": "",
+      "note": "Listed at 70% off in October. Check current price.",
+      "url": "https://www.tractorsupply.com/tsc/product/porter-cable-porter-cable-pcce720b-20v-brushless-oscillating-tool-(bare)-2353341"
     },
     {
-      "title": "DEWALT 20V MAX XR Brushless Random Orbital Sander",
+      "title": "DEWALT 20V MAX Drill/Driver and Impact Driver Combo Kit (DCK240C2)",
+      "store": "Northern Tool",
+      "price": "$149",
+      "was": "$239",
+      "note": "Two batteries included. Price from Northern Tool's sale page.",
+      "url": "https://www.northerntool.com/on-sale"
+    },
+    {
+      "title": "Rockler Dovetail Saddle Square",
+      "store": "Rockler",
+      "price": "$11.99",
+      "was": "$14.99",
+      "note": "Marks dovetails in softwood or hardwood. Ends Nov 19.",
+      "url": "https://www.rockler.com/current-promotions"
+    },
+    {
+      "title": "RIKON 10 in. Deluxe Bandsaw, 1/2 HP",
+      "store": "Woodcraft",
+      "price": "$509.99",
+      "was": "$599.99",
+      "note": "Bandsaw for curves and small resawing.",
+      "url": "https://www.woodcraft.com/collections/black-friday"
+    },
+    {
+      "title": "Wiha Screwdrivers, Wrenches and Tool Bags",
+      "store": "Acme Tools",
+      "price": "Up to 31% off",
+      "was": "",
+      "note": "Runs through Dec 31.",
+      "url": "https://www.acmetools.com/black-friday-deals.html"
+    },
+    {
+      "title": "Woodpeckers Black Friday Flash Sale",
+      "store": "The Tool Nut",
+      "price": "10% off",
+      "was": "",
+      "note": "Precision woodworking tools. Ends Nov 19.",
+      "url": "https://www.thetoolnut.com"
+    },
+    {
+      "title": "DEWALT 12 in. Double-Bevel Sliding Compound Miter Saw",
+      "store": "Home Depot",
+      "price": "$449",
+      "was": "$649",
+      "note": "Corded saw with material clamp for wide boards.",
+      "url": "https://www.homedepot.com/s/DEWALT%20DWS780%20miter%20saw"
+    },
+    {
+      "title": "Kobalt Compact 12 in. Sliding Compound Miter Saw",
       "store": "Lowe's",
-      "price": "$99",
-      "was": "$149",
-      "note": "Cordless sander with a dust bag for finishing cedar and hardwood.",
-      "url": "https://www.lowes.com/search?searchTerm=DEWALT%2020V%20MAX%20XR%20Brushless%20Random%20Orbital%20Sander"
+      "price": "$279",
+      "was": "$349",
+      "note": "Dual-bevel corded saw with a compact footprint.",
+      "url": "https://www.lowes.com/pd/Kobalt-Compact-12-in-15-Amp-Dual-Bevel-Sliding-Compound-Corded-Miter-Saw/5013555733"
     },
     {
       "title": "Milwaukee M18 FUEL D-Handle Jig Saw (Tool Only)",
       "store": "Walmart",
       "price": "$161.52",
       "was": "$183.80",
-      "note": "Brushless cordless jigsaw for curves and cutouts.",
-      "url": "https://www.walmart.com/search?q=Milwaukee%20M18%20FUEL%20D-Handle%20Jig%20Saw"
+      "note": "Brushless jigsaw for curves and cutouts.",
+      "url": "https://www.walmart.com/ip/Milwaukee-M18-FUEL-D-Handle-Jig-Saw-Bare-Tool-2737-20-Cordless-Brushless-Power-Tool-Tool-Free-Adjustments-Integrated-LED-Light-Dust-Management/309880341"
     },
     {
       "title": "DEWALT 20V MAX Drill and Impact Driver Kit",
       "store": "Amazon",
       "price": "$129",
       "was": "$239",
-      "note": "Two-tool combo kit that covers most shop drilling and driving.",
+      "note": "Two-tool combo for everyday drilling and driving.",
       "url": "https://www.amazon.com/dp/B00IJ0ALYS"
+    },
+    {
+      "title": "Braun 750-Lumen Portable LED Work Light",
+      "store": "Harbor Freight",
+      "price": "$9.99",
+      "was": "",
+      "note": "Rotating handle and stand for the bench.",
+      "url": "https://www.harborfreight.com/750-lumen-led-portable-work-light-with-rotating-handlestand-73278.html"
+    },
+    {
+      "title": "Milwaukee PACKOUT Buy More, Save More",
+      "store": "Ace Hardware",
+      "price": "$50 off $199+",
+      "was": "",
+      "note": "Up to $150 off at $399. Runs through Nov 30.",
+      "url": "https://www.acehardware.com/milwaukee-packout-bmas"
+    },
+    {
+      "title": "Porter-Cable 20V Brushless 4-1/2 in. Grinder",
+      "store": "Tractor Supply",
+      "price": "$41.99",
+      "was": "",
+      "note": "Listed at 69% off in October. Check current price.",
+      "url": "https://www.tractorsupply.com/tsc/product/porter-cable-shell-20v-4-1-2-in-brushless-grinder-pccg400b-1865702"
+    },
+    {
+      "title": "Milwaukee M18 Multi-Tool Kit (2626-21)",
+      "store": "Northern Tool",
+      "price": "$119",
+      "was": "$259",
+      "note": "Oscillating multi-tool kit.",
+      "url": "https://www.northerntool.com/on-sale"
+    },
+    {
+      "title": "SawStop Table Saws (Compact, Contractor, Cabinet)",
+      "store": "Rockler",
+      "price": "Up to $500 off",
+      "was": "",
+      "note": "Rare SawStop sale at Rockler.",
+      "url": "https://www.rockler.com/current-promotions"
     },
     {
       "title": "JET 13 in. Benchtop Planer with Helical Cutterhead",
       "store": "Woodcraft",
       "price": "$699",
       "was": "$799.99",
-      "note": "Benchtop planer with a quiet helical head.",
-      "url": "https://www.woodcraft.com/search?q=JET%2013%20in.%20Benchtop%20Planer%20with%20Helical%20Cutterhead"
+      "note": "Quiet helical head for clean surfaces.",
+      "url": "https://www.woodcraft.com/collections/black-friday"
+    },
+    {
+      "title": "DEWALT 20V MAX XR Impact Wrench with Free PowerStack Starter Kit",
+      "store": "Acme Tools",
+      "price": "Free kit",
+      "was": "",
+      "note": "Free starter kit with purchase through Nov 21.",
+      "url": "https://www.acmetools.com/black-friday-deals.html"
+    },
+    {
+      "title": "RYOBI ONE+ HP 10 in. Sliding Miter Saw (Tool Only)",
+      "store": "Home Depot",
+      "price": "$299",
+      "was": "$349",
+      "note": "Brushless cordless sliding miter saw.",
+      "url": "https://www.homedepot.com/p/RYOBI-ONE-HP-18V-Brushless-Cordless-10-in-Sliding-Compound-Miter-Saw-Tool-Only-PBLMS01B/319830427"
+    },
+    {
+      "title": "DEWALT 8-1/4 in. Jobsite Table Saw",
+      "store": "Lowe's",
+      "price": "$329",
+      "was": "$429",
+      "note": "Portable table saw for ripping and crosscuts.",
+      "url": "https://www.lowes.com/pd/DEWALT-8-5-in-Carbide-Tipped-Blade-Portable-Table-Saw/1002534630"
+    },
+    {
+      "title": "Milwaukee M18 FUEL 6-1/2 in. Circular Saw (Tool Only)",
+      "store": "Walmart",
+      "price": "$189.98",
+      "was": "$229",
+      "note": "Cordless saw for cutting boards and plywood.",
+      "url": "https://www.walmart.com/ip/Milwaukee-2833-20-M18-FUEL-6-1-2-Circular-Saw-Tool-Only/14063151605"
+    },
+    {
+      "title": "DEWALT 20V MAX 6-1/2 in. Circular Saw",
+      "store": "Amazon",
+      "price": "$99",
+      "was": "$159",
+      "note": "Cordless circular saw.",
+      "url": "https://www.amazon.com/dp/B007NVSTO8"
+    },
+    {
+      "title": "Pittsburgh 3-Piece Adjustable Wrench Set",
+      "store": "Harbor Freight",
+      "price": "$7.99",
+      "was": "",
+      "note": "Listed at 38% off.",
+      "url": "https://www.harborfreight.com/3-piece-adjustable-wrench-set-47099.html"
+    },
+    {
+      "title": "NEBO Columbo 150 LED Pen Light",
+      "store": "Ace Hardware",
+      "price": "$9.99",
+      "was": "$23.99",
+      "note": "Pocket light for inspecting joints and finishes.",
+      "url": "https://www.acehardware.com/departments/lighting-and-electrical/flashlights-and-lanterns/flashlights/3005020"
+    },
+    {
+      "title": "Bosch 18V Circular Saw with Chip Collector (Bare Tool)",
+      "store": "Tractor Supply",
+      "price": "$174.99",
+      "was": "",
+      "note": "Listed at 30% off in October. Check current price.",
+      "url": "https://www.tractorsupply.com/tsc/product/bosch-18v-metal-circular-saw-with-chip-collector-(bare-tool)-gkm18v-20n-2287750"
+    },
+    {
+      "title": "DEWALT 20V Cordless Reciprocating Saw, Tool Only (DCS380B)",
+      "store": "Northern Tool",
+      "price": "$129",
+      "was": "$159",
+      "note": "Price from Northern Tool's sale page.",
+      "url": "https://www.northerntool.com/on-sale"
+    },
+    {
+      "title": "Festool Kits with Free Accessories",
+      "store": "Rockler",
+      "price": "Up to $400 free",
+      "was": "",
+      "note": "Free accessories and free shipping on select kits.",
+      "url": "https://www.rockler.com/current-promotions"
+    },
+    {
+      "title": "Milwaukee PACKOUT Orders, Tiered Savings",
+      "store": "Acme Tools",
+      "price": "Up to $150 off",
+      "was": "",
+      "note": "Savings tier by cart total. Runs through Jan 31.",
+      "url": "https://www.acmetools.com/black-friday-deals.html"
+    },
+    {
+      "title": "RYOBI 10 in. Corded Sliding Miter Saw with Stand",
+      "store": "Home Depot",
+      "price": "$299",
+      "was": "$398",
+      "note": "Saw and universal stand in one bundle.",
+      "url": "https://www.homedepot.com/p/RYOBI-15-Amp-10-in-Corded-Sliding-Compound-Miter-Saw-and-Universal-Miter-Saw-QUICKSTAND-TSS103-A18MS01G/313307258"
+    },
+    {
+      "title": "CRAFTSMAN 10 in. Jobsite Table Saw with Folding Stand",
+      "store": "Lowe's",
+      "price": "$199",
+      "was": "$229",
+      "note": "Entry level saw with a folding stand.",
+      "url": "https://www.lowes.com/pd/CRAFTSMAN-10-in-Carbide-Tipped-Blade-15-Amp-Table-Saw/1001071462"
+    },
+    {
+      "title": "Milwaukee M18 7-1/4 in. Circular Saw (Bare Tool)",
+      "store": "Walmart",
+      "price": "$176.99",
+      "was": "$223.75",
+      "note": "Brushless 7-1/4 inch cordless saw.",
+      "url": "https://www.walmart.com/ip/Milwaukee-M18-7-1-4-18V-Brushless-Circular-Saw-2631-20-Bare-Tool/733292887"
+    },
+    {
+      "title": "DEWALT 20V MAX XR Brushless Jigsaw",
+      "store": "Amazon",
+      "price": "$133.99",
+      "was": "$239",
+      "note": "Brushless jigsaw for curves and cutouts.",
+      "url": "https://www.amazon.com/dp/B07JPFHQKG"
+    },
+    {
+      "title": "Bauer Variable-Speed Drywall Screwdriver",
+      "store": "Harbor Freight",
+      "price": "$34.99",
+      "was": "",
+      "note": "Listed at 30% off.",
+      "url": "https://www.harborfreight.com/5-Amp-Variable-Speed-Drywall-Screwdriver-with-Adjustable-Nosepiece-63988.html"
+    },
+    {
+      "title": "Milwaukee M12 FUEL 2-Tool Combo Kit (3497-22)",
+      "store": "Northern Tool",
+      "price": "$199",
+      "was": "$249",
+      "note": "Drill driver and impact driver with two batteries.",
+      "url": "https://www.northerntool.com/on-sale"
+    },
+    {
+      "title": "Milwaukee M18 7-1/4 in. Circular Saw Kit",
+      "store": "Home Depot",
+      "price": "$199",
+      "was": "$626",
+      "note": "Brushless cordless saw kit.",
+      "url": "https://www.homedepot.com/s/Milwaukee%20M18%20circular%20saw%20kit%202631"
+    },
+    {
+      "title": "DEWALT 12 in. Dual Bevel Compound Miter Saw",
+      "store": "Lowe's",
+      "price": "$349",
+      "was": "$429",
+      "note": "Corded 15 amp saw for trim and framing.",
+      "url": "https://www.lowes.com/pd/DEWALT-12-in-15-Amp-Dual-Bevel-Compound-Miter-Saw/1001053566"
+    },
+    {
+      "title": "Milwaukee M12 FUEL Hammer Drill and Impact Driver Combo Kit",
+      "store": "Walmart",
+      "price": "$210",
+      "was": "$249",
+      "note": "Two batteries, charger and bag included.",
+      "url": "https://www.walmart.com/ip/Milwaukee-M12-FUEL-2-Tool-Combo-Kit-3497-22-1-2-in-Hammer-Drill-and-1-4-in-Impact-Driver-2-Batteries-Charger-and-Bag/1280720711"
+    },
+    {
+      "title": "DEWALT 8-1/4 in. Compact Jobsite Table Saw",
+      "store": "Amazon",
+      "price": "$329",
+      "was": "$429",
+      "note": "Compact portable table saw.",
+      "url": "https://www.amazon.com/dp/B0842QDW95"
+    },
+    {
+      "title": "DEWALT Random Orbital Sander",
+      "store": "Home Depot",
+      "price": "$99",
+      "was": "$149",
+      "note": "Five inch sander for finishing cedar and hardwood.",
+      "url": "https://www.homedepot.com/p/305585327"
+    },
+    {
+      "title": "DEWALT 20V MAX XR Brushless Random Orbital Sander",
+      "store": "Lowe's",
+      "price": "$99",
+      "was": "$149",
+      "note": "Cordless sander with dust bag.",
+      "url": "https://www.lowes.com/pd/DEWALT-20-Volt-Brushless-Random-Orbital-Sander-with-Bag/1000601423"
+    },
+    {
+      "title": "Milwaukee M18 FUEL SAWZALL Reciprocating Saw (Bare Tool)",
+      "store": "Walmart",
+      "price": "$162.89",
+      "was": "$211.99",
+      "note": "Demolition and rough cutting saw.",
+      "url": "https://www.walmart.com/ip/Milwaukee-M18-FUEL-SAWZALL-Reciprocating-Saw-Brushless-Motor-3-000-SPM-Heavy-Duty-Cordless-Cutting-Tool-2821-20-Bare-Tool/831815004"
+    },
+    {
+      "title": "DEWALT 20V MAX XR Brushless Random Orbital Sander",
+      "store": "Amazon",
+      "price": "$93.99",
+      "was": "$179",
+      "note": "Cordless finishing sander.",
+      "url": "https://www.amazon.com/dp/B07JQM7C28"
+    },
+    {
+      "title": "Makita 7-1/4 in. Circular Saw",
+      "store": "Home Depot",
+      "price": "$159",
+      "was": "$174",
+      "note": "Corded saw for framing and sheet goods.",
+      "url": "https://www.homedepot.com/p/202873973"
+    },
+    {
+      "title": "DEWALT 20V MAX 6-1/2 in. Cordless Circular Saw",
+      "store": "Lowe's",
+      "price": "$99",
+      "was": "$159",
+      "note": "Lightweight cordless saw with brake.",
+      "url": "https://www.lowes.com/pd/DEWALT-20-volt-Max-6-1-2-in-Cordless-Circular-Saw-with-Brake-and-Magnesium-Shoe/3962443"
+    },
+    {
+      "title": "Milwaukee M18 FUEL PACKOUT 2.5 Gal. Wet/Dry Vacuum (Tool Only)",
+      "store": "Walmart",
+      "price": "$163",
+      "was": "$199",
+      "note": "Cordless shop vac that fits the PACKOUT system.",
+      "url": "https://www.walmart.com/ip/Milwaukee-M18-FUEL-PACKOUT-Brushless-2-5-Gal-Cordless-Wet-Dry-Vacuum-Tool-Only/260212621"
+    },
+    {
+      "title": "Bosch Random Orbit Palm Sander",
+      "store": "Amazon",
+      "price": "$69",
+      "was": "$99",
+      "note": "Light sander for detail and finish work.",
+      "url": "https://www.amazon.com/dp/B00BD5G9VA"
+    },
+    {
+      "title": "Makita Compact Router",
+      "store": "Home Depot",
+      "price": "$139",
+      "was": "$159",
+      "note": "Compact router for edge profiles and trimming.",
+      "url": "https://www.homedepot.com/p/204247210"
+    },
+    {
+      "title": "Kobalt Compact 10 in. Sliding Compound Miter Saw",
+      "store": "Lowe's",
+      "price": "$249",
+      "was": "$289",
+      "note": "Smaller sliding saw for tight shops.",
+      "url": "https://www.lowes.com/pd/Kobalt-Compact-10-in-15-Amp-Dual-Bevel-Sliding-Compound-Corded-Miter-Saw/5013447291"
+    },
+    {
+      "title": "Milwaukee PACKOUT Large Tool Box",
+      "store": "Walmart",
+      "price": "$104.31",
+      "was": "$122.09",
+      "note": "Modular, weather sealed storage.",
+      "url": "https://www.walmart.com/ip/Milwaukee-PACKOUT-Large-Tool-Box-IP65-Rated-100-lb-Capacity-Modular-Storage-Model-48-22-8425/632164260"
+    },
+    {
+      "title": "CRAFTSMAN V20 4-1/2 in. Circular Saw",
+      "store": "Amazon",
+      "price": "$119",
+      "was": "$169",
+      "note": "Compact cordless saw for thin stock.",
+      "url": "https://www.amazon.com/dp/B0DKGDLNRZ"
+    },
+    {
+      "title": "RYOBI ONE+ 18-Gauge AirStrike Brad Nailer",
+      "store": "Home Depot",
+      "price": "$99",
+      "was": "$149",
+      "note": "Cordless brad nailer for trim and small builds.",
+      "url": "https://www.homedepot.com/p/315855110"
+    },
+    {
+      "title": "DEWALT XTREME 12V MAX Brushless Oscillating Multi-Tool",
+      "store": "Lowe's",
+      "price": "$99",
+      "was": "$159",
+      "note": "Compact oscillating tool, tool only.",
+      "url": "https://www.lowes.com/pd/DEWALT-XTREME-12V-MAX-Brushless-Cordless-Oscillating-Tool-Tool-Only/5013107777"
+    },
+    {
+      "title": "CRAFTSMAN 20 in. Fine Finish Hand Saw",
+      "store": "Amazon",
+      "price": "$15.99",
+      "was": "$18.98",
+      "note": "Hand saw for clean crosscuts.",
+      "url": "https://www.amazon.com/dp/B07R7XTMHL"
+    },
+    {
+      "title": "Milwaukee M18 FUEL Brad Nailer",
+      "store": "Home Depot",
+      "price": "$279",
+      "was": "$329",
+      "note": "Cordless nailer with no compressor needed.",
+      "url": "https://www.homedepot.com/p/309752194"
+    },
+    {
+      "title": "Kobalt 24V Brushless Drill/Driver Kit",
+      "store": "Lowe's",
+      "price": "$129",
+      "was": "$189",
+      "note": "Battery and charger included.",
+      "url": "https://www.lowes.com/pd/Kobalt-1-2-in-Keyless-Brushless-Cordless-Drill-Charger-Included/5018284053"
+    },
+    {
+      "title": "CRAFTSMAN 7 in. Aluminum Rafter Square",
+      "store": "Amazon",
+      "price": "$9.99",
+      "was": "$12.48",
+      "note": "Layout square for marking cuts.",
+      "url": "https://www.amazon.com/dp/B08WVF2368"
+    },
+    {
+      "title": "RYOBI ONE+ Brad Nailer and Jig Saw (Tools Only)",
+      "store": "Home Depot",
+      "price": "$178",
+      "was": "$228",
+      "note": "Two-tool pairing for trim and curved cuts.",
+      "url": "https://www.homedepot.com/p/RYOBI-ONE-18V-18-Gauge-Cordless-AirStrike-Brad-Nailer-with-Cordless-Jig-Saw-P321-PCL525B/320653627"
+    },
+    {
+      "title": "RYOBI LINK Rolling Tool Box",
+      "store": "Home Depot",
+      "price": "$79.98",
+      "was": "$99.98",
+      "note": "Stackable rolling storage for the shop.",
+      "url": "https://www.homedepot.com/p/RYOBI-LINK-Rolling-Tool-Box-STM201/317035813"
     }
   ]
 }

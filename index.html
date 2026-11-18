@@ -47,6 +47,9 @@ section h2{font-size:1.9rem;color:var(--fir);margin-bottom:8px}
 .deal{display:flex;flex-direction:column;justify-content:space-between}
 .deal .price{font-family:Arial,sans-serif;font-weight:700;color:var(--fir)}
 .deal .was{text-decoration:line-through;color:var(--muted);font-weight:400;margin-left:6px;font-size:.9rem}
+.chips{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 18px}
+.chip{font-family:Arial,sans-serif;font-size:.8rem;border:1px solid var(--fir);background:#fff;color:var(--fir);padding:6px 13px;border-radius:99px;cursor:pointer}
+.chip.on,.chip.more{background:var(--fir);color:#fff}
 .note{font-size:.82rem;color:var(--muted);margin-top:18px}
 form{display:grid;gap:12px;max-width:520px}
 input,textarea{font:inherit;padding:11px 12px;border:1px solid #c9bfa8;border-radius:6px;width:100%;background:#fff}
@@ -112,7 +115,9 @@ details{background:#fff;border-radius:10px;padding:14px 18px;margin-top:10px;box
 <section id="deals"><div class="wrap">
   <h2>Woodworker deals</h2>
   <p class="lead">We take time out of our week to track down the best woodworking and tool deals around, so you can save on the gear that makes building easier.</p>
+  <div id="dealfilters" class="chips"></div>
   <div class="grid" id="dealgrid"><p class="note">Loading deals...</p></div>
+  <p style="text-align:center;margin-top:18px"><button type="button" id="moredeals" class="chip more" style="display:none"></button></p>
   <p class="note" id="updated"></p>
   <p class="note">Prices were listed at each retailer when this list was last updated and can change at any time.</p>
   <p class="note">Some links may be affiliate links. If you buy through them, Fox &amp; Fir may earn a small commission at no extra cost to you. Prices and availability can change.</p>
@@ -154,11 +159,24 @@ if(ETSY_URL){var e=document.getElementById('etsy');e.href=ETSY_URL;e.textContent
 fetch('deals.json?t='+Date.now()).then(r=>r.json()).then(d=>{
   var g=document.getElementById('dealgrid');g.innerHTML='';
   if(!d.deals||!d.deals.length){g.innerHTML='<p class="note">New deals are posted weekly. Check back soon.</p>';return}
-  d.deals.forEach(x=>{
-    var c=document.createElement('div');c.className='card deal';
-    var was=x.was?'<span class="was">'+x.was+'</span>':'';
-    c.innerHTML='<div class="body"><span class="tag">'+(x.store||'Deal')+'</span><h3>'+x.title+'</h3><p>'+(x.note||'')+'</p><p class="price">'+(x.price||'')+was+'</p></div><div class="body"><a href="'+x.url+'" target="_blank" rel="noopener sponsored">View deal</a></div>';
-    g.appendChild(c)});
+  var PAGE=12,shown=PAGE,store='All',more=document.getElementById('moredeals'),chips=document.getElementById('dealfilters');
+  function esc(t){return String(t||'').replace(/&/g,'&amp;').replace(/</g,'&lt;')}
+  function render(){
+    g.innerHTML='';
+    var list=d.deals.filter(x=>store==='All'||x.store===store);
+    list.slice(0,shown).forEach(x=>{
+      var c=document.createElement('div');c.className='card deal';
+      var was=x.was?'<span class="was">'+esc(x.was)+'</span>':'';
+      c.innerHTML='<div class="body"><span class="tag">'+esc(x.store||'Deal')+'</span><h3>'+esc(x.title)+'</h3><p>'+esc(x.note)+'</p><p class="price">'+esc(x.price)+was+'</p></div><div class="body"><a href="'+encodeURI(x.url)+'" target="_blank" rel="noopener sponsored">View deal</a></div>';
+      g.appendChild(c)});
+    more.style.display=list.length>shown?'inline-block':'none';
+    more.textContent='Show more deals ('+(list.length-shown)+' more)';
+  }
+  var stores=['All'].concat(d.deals.map(x=>x.store).filter((v,i,a)=>a.indexOf(v)===i));
+  stores.forEach(n=>{var b=document.createElement('button');b.type='button';b.textContent=n;b.className='chip'+(n==='All'?' on':'');
+    b.onclick=function(){store=n;shown=PAGE;[].forEach.call(chips.children,c=>c.classList.toggle('on',c===b));render()};chips.appendChild(b)});
+  more.onclick=function(){shown+=PAGE;render()};
+  render();
   if(d.updated)document.getElementById('updated').textContent='Last updated '+d.updated;
 }).catch(()=>{document.getElementById('dealgrid').innerHTML='<p class="note">Deals unavailable right now.</p>'});
 </script>
