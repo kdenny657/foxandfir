@@ -130,7 +130,7 @@ document.getElementById('yr').textContent=new Date().getFullYear();
 // ETSY_URL: set to your shop link when ready, e.g. 'https://www.etsy.com/shop/FoxAndFirWoodworks'
 var ETSY_URL='https://www.etsy.com/shop/FoxAndFirWoodworks';
 if(ETSY_URL){var e=document.getElementById('etsy');e.href=ETSY_URL;e.textContent='Visit our Etsy shop';e.target='_blank';e.rel='noopener'}
-fetch('deals.json').then(r=>r.json()).then(d=>{
+fetch('deals.json?t='+Date.now()).then(r=>r.json()).then(d=>{
   var g=document.getElementById('dealgrid');g.innerHTML='';
   if(!d.deals||!d.deals.length){g.innerHTML='<p class="note">New deals are posted weekly. Check back soon.</p>';return}
   d.deals.forEach(x=>{
